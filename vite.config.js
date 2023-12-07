@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/entrenadorpersonal1/',
+  base: '/entrenadorpersonal2/',
   plugins: [react()],
   test: {
     globals: true,
