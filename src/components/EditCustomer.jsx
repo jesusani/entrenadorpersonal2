@@ -24,15 +24,7 @@ export default function EditCustomer({ customerdata, fetchCustomers }) {
 
 	//Functions:
 	const handleClickOpen = () => {
-		setCustomer({
-			firstname: customer.firstname,
-			lastname: customer.lastname,
-			email: customer.email,
-			phone: customer.phone,
-			streetaddress: customer.streetaddress,
-			postcode: customer.postcode,
-			city: customer.city,
-		});
+		setCustomer(customerdata);
 		setOpen(true);
 	};
 
