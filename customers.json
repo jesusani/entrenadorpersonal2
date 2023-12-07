@@ -1,0 +1,278 @@
+{
+    "links": [
+        {
+            "rel": "self",
+            "href": "http://traineeapp.azurewebsites.net/api/customers"
+        },
+        {
+            "rel": "profile",
+            "href": "http://traineeapp.azurewebsites.net/api/profile/customers"
+        }
+    ],
+    "content": [
+        {
+            "firstname": "Mary",
+            "lastname": "Philips",
+            "streetaddress": "Hill Street 3",
+            "postcode": "23322",
+            "city": "Flintsone",
+            "email": "m.philips@mail.com",
+            "phone": "232-310122",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13027"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13027"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13027/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Dan",
+            "lastname": "Davidson",
+            "streetaddress": "32 Main Road",
+            "postcode": "23130",
+            "city": "Flintsone",
+            "email": "dan.d@mail.com",
+            "phone": "232-1227006",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13028"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13028"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13028/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Erick",
+            "lastname": "Wilfrid",
+            "streetaddress": "71 Pilgrim Avenue",
+            "postcode": "23130",
+            "city": "Flintsone",
+            "email": "ewilf@mail.com",
+            "phone": "232-1227006",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13029"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13029"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13029/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Leyla",
+            "lastname": "Elsi",
+            "streetaddress": "41 Main Road",
+            "postcode": "23130",
+            "city": "Flintsone",
+            "email": "l.elsie@mail.com",
+            "phone": "232-457133",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13033"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13033"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13033/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Kevin",
+            "lastname": "Dublin",
+            "streetaddress": "2 Main Street",
+            "postcode": "20010",
+            "city": "Flintsone",
+            "email": "k.dublin@mail.com",
+            "phone": "232-147127",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13034"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13034"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13034/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Laura",
+            "lastname": "Jones",
+            "streetaddress": "34 Venice Street",
+            "postcode": "20010",
+            "city": "Flintsone",
+            "email": "laura.jones@mail.com",
+            "phone": "232-133147",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13035"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13035"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13035/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Janet",
+            "lastname": "Jones",
+            "streetaddress": "31 Fifth Street",
+            "postcode": "20010",
+            "city": "Flintsone",
+            "email": "janet.j@mail.com",
+            "phone": "232-457110",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13036"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13036"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13036/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Tina",
+            "lastname": "Dublin",
+            "streetaddress": "2 Main Street",
+            "postcode": "20010",
+            "city": "Flintsone",
+            "email": "t.dublin@mail.com",
+            "phone": "232-211555",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13037"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13037"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13037/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Tim",
+            "lastname": "Morrison",
+            "streetaddress": "15 Main Boulevard",
+            "postcode": "33106",
+            "city": "Flintsone",
+            "email": "t.morrison@mail.com",
+            "phone": "232-770560",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13038"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13038"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13038/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Mike",
+            "lastname": "Ross",
+            "streetaddress": "14 Main Street",
+            "postcode": "20010",
+            "city": "Flintsone",
+            "email": "mike.r@mail.com",
+            "phone": "232-512123",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13039"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13039"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13039/trainings"
+                }
+            ]
+        },
+        {
+            "firstname": "Lisa",
+            "lastname": "Hurley",
+            "streetaddress": "1 Lake Road",
+            "postcode": "20010",
+            "city": "Flintsone",
+            "email": "lisa.h@mail.com",
+            "phone": "232-314330",
+            "content": [],
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13040"
+                },
+                {
+                    "rel": "customer",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13040"
+                },
+                {
+                    "rel": "trainings",
+                    "href": "http://traineeapp.azurewebsites.net/api/customers/13040/trainings"
+                }
+            ]
+        }
+    ]
+}
